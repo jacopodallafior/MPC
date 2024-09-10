@@ -5,8 +5,8 @@ This repository contains the coursework for the **Model Predictive Control (MPC)
 ## Assignments
 
 ### Assignment 1: Discrete-time Linear Systems
-- **Description**: This assignment covered the fundamentals of discrete-time linear systems and their analysis. It involved developing and analyzing linear system models.
-
+- **Description**: This assignment introduces the state-feedback control design for the Astrobee robot, which operates on the International Space Station (ISS). The goal is to develop efficient control systems to manage the motion of the robot, which uses air to move via vents. In this assignment, the task is to implement a discrete-time linear model of the Astrobee system and design a feedback controller. The task also includes simulating the robot’s behavior under the designed control strategy using Python scripts and analyzing its stability and performance.
+  
 ### Assignment 2: Finite-time Optimal Control
 - **Description**: This task requires the design of an optimal control law over a finite time horizon for a given system. The goal is to optimize the system's performance while adhering to the time constraints.
 
