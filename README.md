@@ -8,7 +8,7 @@ This repository contains the coursework for the **Model Predictive Control (MPC)
 - **Description**: This assignment introduces the state-feedback control design for the Astrobee robot, which operates on the International Space Station (ISS). The goal is to develop efficient control systems to manage the motion of the robot, which uses air to move via vents. In this assignment, the task is to implement a discrete-time linear model of the Astrobee system and design a feedback controller. The task also includes simulating the robot’s behavior under the designed control strategy using Python scripts and analyzing its stability and performance.
   
 ### Assignment 2: Finite-time Optimal Control
-- **Description**: This task requires the design of an optimal control law over a finite time horizon for a given system. The goal is to optimize the system's performance while adhering to the time constraints.
+- **Description**: This assignment focuses on finite-time optimal control in the context of space robotics, particularly dealing with the pressing issue of space debris. The objective is to design a control strategy for a robotic satellite that removes debris by guiding it into Earth's atmosphere. I will develop a finite-time optimal controller to efficiently approach space debris and simulate the robot’s control behavior. The key challenge is to ensure that the satellite can accomplish the task within a limited timeframe, optimizing both the trajectory and the use of available resources.
 
 ### Assignment 3: Linear Quadratic Regulator (LQR)
 - **Description**: This assignment focuses on implementing and analyzing a Linear Quadratic Regulator (LQR). The LQR method minimizes a quadratic cost function and aims for optimal control of linear systems.
